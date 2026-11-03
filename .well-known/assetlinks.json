@@ -1,1 +1,16 @@
 
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.clairnet.app",
+      "sha256_cert_fingerprints": [
+        "47:EF:1C:53:8D:35:7D:7D:3F:E1:FE:31:2E:D2:31:37:01:AA:85:3E:80:63:5D:57:B3:67:7B:3A:D4:CC:CE:21"
+      ]
+    }
+  }
+]
